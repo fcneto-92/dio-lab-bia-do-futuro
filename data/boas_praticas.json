@@ -1,0 +1,14 @@
+{
+  "nomeacao": {
+    "descricao": "Utilizar nomes claros e seguir o padrão snake_case."
+  },
+  "comentarios": {
+    "descricao": "Documentar trechos complexos de código."
+  },
+  "organizacao": {
+    "descricao": "Separar funções e módulos por responsabilidade."
+  },
+  "pep8": {
+    "descricao": "Seguir as recomendações da PEP 8 para padronização do código."
+  }
+}
