@@ -1,0 +1,14 @@
+{
+  "if_else": {
+    "descricao": "Permite executar ações baseadas em condições.",
+    "exemplo": "if idade >= 18:\n    print('Maior de idade')"
+  },
+  "for": {
+    "descricao": "Executa um bloco de código várias vezes.",
+    "exemplo": "for i in range(5):\n    print(i)"
+  },
+  "while": {
+    "descricao": "Executa enquanto uma condição for verdadeira.",
+    "exemplo": "while contador < 10:\n    contador += 1"
+  }
+}
