@@ -1,0 +1,14 @@
+{
+  "listas": {
+    "descricao": "Coleção ordenada e mutável.",
+    "exemplo": "nomes = ['Ana', 'Carlos']"
+  },
+  "tuplas": {
+    "descricao": "Coleção ordenada e imutável.",
+    "exemplo": "cores = ('azul', 'verde')"
+  },
+  "dicionarios": {
+    "descricao": "Estrutura baseada em chave e valor.",
+    "exemplo": "usuario = {'nome': 'Ana', 'idade': 25}"
+  }
+}
