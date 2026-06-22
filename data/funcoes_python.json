@@ -1,0 +1,12 @@
+{
+  "funcoes": {
+    "descricao": "Funções permitem reutilizar código.",
+    "exemplo": "def saudacao(nome):\n    return f'Olá {nome}'"
+  },
+  "parametros": {
+    "descricao": "Permitem passar informações para a função."
+  },
+  "retorno": {
+    "descricao": "Valor devolvido pela função usando return."
+  }
+}
