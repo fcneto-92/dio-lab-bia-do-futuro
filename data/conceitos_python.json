@@ -1,0 +1,10 @@
+{
+  "variaveis": {
+    "descricao": "Variáveis armazenam valores em memória.",
+    "exemplo": "nome = 'João'"
+  },
+  "tipos_de_dados": {
+    "descricao": "Python possui tipos como int, float, str e bool.",
+    "exemplo": "idade = 30"
+  }
+}
