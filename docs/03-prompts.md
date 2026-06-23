@@ -73,8 +73,6 @@ REGRAS:
 
 ## Observações e Aprendizados
 
-> Registre aqui ajustes que você fez nos prompts e por quê.
-
 - O prompt foi ajustado para limitar as respostas ao conteúdo da base de conhecimento.
 - Foram adicionadas regras para reduzir alucinações e evitar respostas fora do escopo.
 - Foram incluídos exemplos de perguntas e respostas utilizando Few-Shot Prompting.
