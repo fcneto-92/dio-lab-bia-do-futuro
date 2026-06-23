@@ -3,7 +3,7 @@
 ## Estrutura Sugerida
 
 
-## Setupo do Ollama
+## Setup do Ollama
 
 ```
 Antes de executar o projeto, você precisa instalar e configurar o Ollama.
@@ -35,7 +35,7 @@ Se abrir o chat do modelo, está tudo certo.
 
 Toda a lógica do projeto está centralizada no arquivo: app.py
 
-## Setupo do Ollama
+## Executar o app
 
 ```
 #1. Instalar dependências:
