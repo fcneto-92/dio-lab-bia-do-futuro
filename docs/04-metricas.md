@@ -90,7 +90,7 @@ Após a execução dos testes, os seguintes padrões foram observados:
 
 ---
 
-## Métricas Avançadas (Opcional)
+## Métricas Avançadas
 
 Com base nos testes simulados e feedback dos usuários, foram estimadas as seguintes métricas do agente PyGuide:
 
