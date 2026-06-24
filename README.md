@@ -166,9 +166,6 @@ python app.py
 │
 ├── 📁 src/
 │   ├── 📄 app.py
-│
-└── 📁 assets/
-    └── diagramas e imagens
 ```
 
 ---
